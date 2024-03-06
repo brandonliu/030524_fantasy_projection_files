@@ -1,0 +1,361 @@
+﻿Year,Team,Metric,Stat,Pts,Dif
+2021,Talking Heads,AVG,0.2727,12,0
+2021,Picture of a Goose,AVG,0.2712,11,1
+2021,Stolies Southpaws,AVG,0.2711,10,1
+2021,Calvinballers,AVG,0.2706,9,-2
+2021,Wandas Big Whoppers,AVG,0.2678,8,0
+2021,Last Place Lindor,AVG,0.2618,7,0
+2021,J & B 's Field of Dreams,AVG,0.2606,6,0
+2021,Hamsters on Parade,AVG,0.2581,5,0
+2021,2 Bee Dee,AVG,0.2549,4,0
+2021,The Replacements,AVG,0.2539,3,0
+2021,Han Solo and Marge Schott First,AVG,0.2519,2,0
+2021,NBI,AVG,0.2479,1,0
+2021,J & B 's Field of Dreams,HR,264,12,1
+2021,The Replacements,HR,259,11,-1
+2021,Stolies Southpaws,HR,244,10,1
+2021,Calvinballers,HR,241,9,-1
+2021,Talking Heads,HR,224,8,0
+2021,Picture of a Goose,HR,217,6.5,-0.5
+2021,Han Solo and Marge Schott First,HR,217,6.5,0.5
+2021,Wandas Big Whoppers,HR,210,5,0
+2021,Hamsters on Parade,HR,205,4,0
+2021,2 Bee Dee,HR,201,3,0
+2021,NBI,HR,197,2,0
+2021,Last Place Lindor,HR,193,1,0
+2021,Stolies Southpaws,R,815,12,0
+2021,The Replacements,R,777,11,0
+2021,J & B 's Field of Dreams,R,765,10,1
+2021,Picture of a Goose,R,757,9,-1
+2021,Han Solo and Marge Schott First,R,749,8,0
+2021,Calvinballers,R,746,7,0
+2021,Talking Heads,R,744,6,0
+2021,Last Place Lindor,R,731,5,0
+2021,NBI,R,712,4,0.5
+2021,Hamsters on Parade,R,711,3,-0.5
+2021,Wandas Big Whoppers,R,696,2,0
+2021,2 Bee Dee,R,645,1,0
+2021,J & B 's Field of Dreams,RBI,760,12,3
+2021,Talking Heads,RBI,751,11,-1
+2021,The Replacements,RBI,750,9.5,-1.5
+2021,Calvinballers,RBI,750,9.5,-0.5
+2021,Wandas Big Whoppers,RBI,726,8,0
+2021,Stolies Southpaws,RBI,719,7,0
+2021,Picture of a Goose,RBI,697,6,0
+2021,Hamsters on Parade,RBI,683,5,1
+2021,Last Place Lindor,RBI,682,4,2
+2021,NBI,RBI,674,3,-2
+2021,2 Bee Dee,RBI,673,2,-1
+2021,Han Solo and Marge Schott First,RBI,661,1,0
+2021,J & B 's Field of Dreams,SLTB,3007,12,0
+2021,Stolies Southpaws,SLTB,2997,11,0
+2021,The Replacements,SLTB,2943,10,0
+2021,Talking Heads,SLTB,2913,9,0
+2021,Calvinballers,SLTB,2905,8,0
+2021,Picture of a Goose,SLTB,2776,7,1
+2021,Last Place Lindor,SLTB,2775,6,-1
+2021,Wandas Big Whoppers,SLTB,2757,5,0
+2021,Han Solo and Marge Schott First,SLTB,2748,4,0
+2021,NBI,SLTB,2674,3,0
+2021,Hamsters on Parade,SLTB,2597,2,0
+2021,2 Bee Dee,SLTB,2519,1,0
+2021,NBI,ERA,3.321,12,0
+2021,Picture of a Goose,ERA,3.427,11,0
+2021,2 Bee Dee,ERA,3.47,10,3
+2021,The Replacements,ERA,3.497,9,0
+2021,Stolies Southpaws,ERA,3.516,8,0
+2021,Calvinballers,ERA,3.528,7,-3
+2021,Talking Heads,ERA,3.672,6,0
+2021,Hamsters on Parade,ERA,3.728,5,2
+2021,J & B 's Field of Dreams,ERA,3.729,4,-1
+2021,Wandas Big Whoppers,ERA,3.771,3,-1
+2021,Han Solo and Marge Schott First,ERA,3.776,2,0
+2021,Last Place Lindor,ERA,3.929,1,0
+2021,Stolies Southpaws,K,1154,12,1
+2021,Talking Heads,K,1153,11,-1
+2021,J & B 's Field of Dreams,K,1142,10,0
+2021,The Replacements,K,1135,9,0
+2021,NBI,K,1050,8,0
+2021,Calvinballers,K,1041,7,0
+2021,2 Bee Dee,K,1029,6,2
+2021,Wandas Big Whoppers,K,1028,5,-1
+2021,Han Solo and Marge Schott First,K,1016,4,1
+2021,Picture of a Goose,K,1001,3,-2
+2021,Last Place Lindor,K,963,2,0
+2021,Hamsters on Parade,K,943,1,0
+2021,Last Place Lindor,S,70,12,0
+2021,J & B 's Field of Dreams,S,66,11,0
+2021,The Replacements,S,65,10,0.5
+2021,Stolies Southpaws,S,64,9,-0.5
+2021,Picture of a Goose,S,56,7.5,-0.5
+2021,Wandas Big Whoppers,S,56,7.5,2
+2021,NBI,S,54,6,-1
+2021,Han Solo and Marge Schott First,S,53,5,-0.5
+2021,Talking Heads,S,49,3.5,2.5
+2021,2 Bee Dee,S,49,3.5,-0.5
+2021,Hamsters on Parade,S,48,2,-0.5
+2021,Calvinballers,S,46,1,-1.5
+2021,NBI,W-L,35,12,0
+2021,Calvinballers,W-L,24,11,0
+2021,Last Place Lindor,W-L,23,9.5,-0.5
+2021,2 Bee Dee,W-L,23,9.5,1.5
+2021,Picture of a Goose,W-L,22,8,-1
+2021,The Replacements,W-L,17,7,0
+2021,Wandas Big Whoppers,W-L,16,6,0
+2021,J & B 's Field of Dreams,W-L,14,5,0
+2021,Hamsters on Parade,W-L,10,4,1
+2021,Stolies Southpaws,W-L,8,3,-1
+2021,Han Solo and Marge Schott First,W-L,4,2,0
+2021,Talking Heads,W-L,-24,1,0
+2021,Calvinballers,WHIP,1.1249,12,0
+2021,NBI,WHIP,1.1279,11,0
+2021,Stolies Southpaws,WHIP,1.1345,10,0
+2021,The Replacements,WHIP,1.1495,9,2
+2021,Picture of a Goose,WHIP,1.1582,8,0
+2021,Han Solo and Marge Schott First,WHIP,1.1623,7,1
+2021,Wandas Big Whoppers,WHIP,1.1625,6,-3
+2021,2 Bee Dee,WHIP,1.1808,5,1
+2021,Hamsters on Parade,WHIP,1.1867,4,3
+2021,Talking Heads,WHIP,1.1868,3,-2
+2021,J & B 's Field of Dreams,WHIP,1.187,2,-1
+2021,Last Place Lindor,WHIP,1.1887,1,-1
+2022,J & B 's Field of Dreams,AVG,0.2731,12,0
+2022,Marge Also Schott the Deputy,AVG,0.2673,11,0
+2022,Picture of a Goose,AVG,0.2661,10,0
+2022,Dirty Mike and The Boys,AVG,0.2591,9,0
+2022,Calvinballers,AVG,0.2565,8,0
+2022,The Replacements,AVG,0.256,7,0
+2022,Wandas Big Whoppers,AVG,0.255,6,1
+2022,Hamsters on Parade,AVG,0.2547,5,-1
+2022,Stolies Southpaws,AVG,0.2542,4,0
+2022,Talking Heads,AVG,0.2469,3,0
+2022,NBI,AVG,0.2415,2,0
+2022,Tampico Stogie's,AVG,0.2367,1,0
+2022,Picture of a Goose,HR,266,12,0
+2022,Stolies Southpaws,HR,216,11,0
+2022,J & B 's Field of Dreams,HR,211,10,0.5
+2022,The Replacements,HR,209,9,-0.5
+2022,Talking Heads,HR,200,8,0
+2022,Calvinballers,HR,199,7,0
+2022,Wandas Big Whoppers,HR,196,6,0
+2022,Hamsters on Parade,HR,192,5,0
+2022,Dirty Mike and The Boys,HR,191,4,0
+2022,NBI,HR,170,3,0
+2022,Marge Also Schott the Deputy,HR,167,2,0
+2022,Tampico Stogie's,HR,154,1,0
+2022,Calvinballers,R,765,12,0
+2022,Picture of a Goose,R,750,11,1
+2022,Hamsters on Parade,R,749,10,-1
+2022,J & B 's Field of Dreams,R,728,8.5,-0.5
+2022,Stolies Southpaws,R,728,8.5,1.5
+2022,The Replacements,R,723,7,-1
+2022,Talking Heads,R,682,6,0
+2022,Wandas Big Whoppers,R,676,5,0
+2022,NBI,R,667,4,0
+2022,Dirty Mike and The Boys,R,645,3,0
+2022,Marge Also Schott the Deputy,R,628,2,0
+2022,Tampico Stogie's,R,585,1,0
+2022,The Replacements,RBI,765,12,0
+2022,J & B 's Field of Dreams,RBI,740,11,0
+2022,Picture of a Goose,RBI,739,10,0
+2022,Hamsters on Parade,RBI,707,9,0
+2022,Wandas Big Whoppers,RBI,685,8,0
+2022,Calvinballers,RBI,677,7,0
+2022,Stolies Southpaws,RBI,668,6,0
+2022,Marge Also Schott the Deputy,RBI,659,5,0
+2022,Talking Heads,RBI,658,4,0
+2022,NBI,RBI,649,3,0
+2022,Dirty Mike and The Boys,RBI,620,2,0
+2022,Tampico Stogie's,RBI,566,1,0
+2022,Picture of a Goose,SLTB,3025,12,0
+2022,J & B 's Field of Dreams,SLTB,2857,11,0
+2022,Hamsters on Parade,SLTB,2822,10,0
+2022,The Replacements,SLTB,2802,9,0
+2022,Stolies Southpaws,SLTB,2777,8,0
+2022,Calvinballers,SLTB,2753,7,0
+2022,Wandas Big Whoppers,SLTB,2702,6,1
+2022,Talking Heads,SLTB,2697,5,-1
+2022,Marge Also Schott the Deputy,SLTB,2634,4,0
+2022,Dirty Mike and The Boys,SLTB,2549,3,0
+2022,NBI,SLTB,2527,2,0
+2022,Tampico Stogie's,SLTB,2328,1,0
+2022,J & B 's Field of Dreams,ERA,2.995,12,0
+2022,NBI,ERA,3.189,11,0
+2022,Talking Heads,ERA,3.248,10,1
+2022,Wandas Big Whoppers,ERA,3.25,9,1
+2022,Picture of a Goose,ERA,3.253,8,-2
+2022,Marge Also Schott the Deputy,ERA,3.318,7,1
+2022,Calvinballers,ERA,3.326,6,-1
+2022,The Replacements,ERA,3.459,5,0
+2022,Hamsters on Parade,ERA,3.531,4,0
+2022,Tampico Stogie's,ERA,3.545,3,0
+2022,Dirty Mike and The Boys,ERA,3.777,2,0
+2022,Stolies Southpaws,ERA,3.791,1,0
+2022,Talking Heads,K,1155,12,0
+2022,The Replacements,K,1116,11,0
+2022,Stolies Southpaws,K,1094,10,0
+2022,Tampico Stogie's,K,1064,9,1
+2022,Picture of a Goose,K,1062,8,-1
+2022,J & B 's Field of Dreams,K,1060,7,0
+2022,Marge Also Schott the Deputy,K,1042,6,0
+2022,Wandas Big Whoppers,K,1031,5,0
+2022,NBI,K,1008,4,0
+2022,Hamsters on Parade,K,1002,3,0
+2022,Calvinballers,K,998,2,0
+2022,Dirty Mike and The Boys,K,835,1,0
+2022,Talking Heads,S,81,12,0
+2022,NBI,S,68,11,0
+2022,Calvinballers,S,67,10,0
+2022,J & B 's Field of Dreams,S,62,9,0
+2022,Tampico Stogie's,S,61,8,0
+2022,Stolies Southpaws,S,60,7,0
+2022,The Replacements,S,54,6,0
+2022,Wandas Big Whoppers,S,49,5,0
+2022,Picture of a Goose,S,46,4,0
+2022,Marge Also Schott the Deputy,S,39,3,0
+2022,Hamsters on Parade,S,33,2,0
+2022,Dirty Mike and The Boys,S,24,1,0
+2022,Stolies Southpaws,W-L,27,12,2.5
+2022,Calvinballers,W-L,26,11,-1
+2022,Wandas Big Whoppers,W-L,24,10,0.5
+2022,J & B 's Field of Dreams,W-L,22,9,-2
+2022,The Replacements,W-L,20,8,0
+2022,Tampico Stogie's,W-L,16,6.5,0
+2022,Dirty Mike and The Boys,W-L,16,6.5,0
+2022,Talking Heads,W-L,15,5,0
+2022,Marge Also Schott the Deputy,W-L,14,4,0.5
+2022,Hamsters on Parade,W-L,12,3,-0.5
+2022,Picture of a Goose,W-L,10,2,0
+2022,NBI,W-L,3,1,0
+2022,J & B 's Field of Dreams,WHIP,1.0755,12,1
+2022,NBI,WHIP,1.0777,11,-1
+2022,Talking Heads,WHIP,1.0846,10,0
+2022,Marge Also Schott the Deputy,WHIP,1.0921,9,0
+2022,Picture of a Goose,WHIP,1.1201,8,0
+2022,The Replacements,WHIP,1.1263,7,0.5
+2022,Wandas Big Whoppers,WHIP,1.127,6,-0.5
+2022,Hamsters on Parade,WHIP,1.1342,5,0
+2022,Stolies Southpaws,WHIP,1.1468,4,1
+2022,Tampico Stogie's,WHIP,1.1479,3,-1
+2022,Calvinballers,WHIP,1.1752,2,0
+2022,Dirty Mike and The Boys,WHIP,1.2497,1,0
+2023,Picture of a Goose,AVG,0.2765,12,0
+2023,J & B 's Field of Dreams,AVG,0.2744,11,0
+2023,Hamsters on Parade,AVG,0.2691,10,0
+2023,The Unnaturals,AVG,0.2672,9,0
+2023,Marge Schott is Trevor Bauer's Safe Word,AVG,0.2656,8,0
+2023,The Replacements,AVG,0.2654,7,0
+2023,Calvinballers,AVG,0.2588,6,0
+2023,Talking Heads,AVG,0.2563,5,1
+2023,Tampico Stogie's,AVG,0.2555,4,-1
+2023,Wandas Big Whoppers,AVG,0.2525,3,0
+2023,Roundtrippers ,AVG,0.247,2,0
+2023,Stolies Southpaws,AVG,0.243,1,0
+2023,Wandas Big Whoppers,HR,273,12,0
+2023,Talking Heads,HR,261,11,0
+2023,J & B 's Field of Dreams,HR,244,10,0
+2023,The Replacements,HR,220,9,0
+2023,Stolies Southpaws,HR,219,8,0
+2023,Hamsters on Parade,HR,214,7,1.5
+2023,Calvinballers,HR,211,6,-1
+2023,Picture of a Goose,HR,208,5,-0.5
+2023,Roundtrippers ,HR,201,4,0
+2023,Marge Schott is Trevor Bauer's Safe Word,HR,193,3,0
+2023,Tampico Stogie's,HR,192,2,0
+2023,The Unnaturals,HR,191,1,0
+2023,Wandas Big Whoppers,R,825,12,0
+2023,J & B 's Field of Dreams,R,804,11,0
+2023,The Unnaturals,R,789,10,0
+2023,Talking Heads,R,788,9,0
+2023,Hamsters on Parade,R,777,8,0
+2023,Marge Schott is Trevor Bauer's Safe Word,R,765,7,0
+2023,The Replacements,R,752,6,0
+2023,Picture of a Goose,R,708,5,0
+2023,Calvinballers,R,703,4,1
+2023,Tampico Stogie's,R,702,3,-1
+2023,Stolies Southpaws,R,693,2,0
+2023,Roundtrippers ,R,662,1,0
+2023,Wandas Big Whoppers,RBI,820,12,0
+2023,Talking Heads,RBI,776,11,0
+2023,J & B 's Field of Dreams,RBI,761,10,0
+2023,The Replacements,RBI,745,9,0
+2023,Hamsters on Parade,RBI,729,7.5,0.5
+2023,Roundtrippers ,RBI,729,7.5,-0.5
+2023,Picture of a Goose,RBI,709,6,1
+2023,Calvinballers,RBI,707,5,-1
+2023,Stolies Southpaws,RBI,698,4,2
+2023,The Unnaturals,RBI,696,3,-1
+2023,Tampico Stogie's,RBI,684,2,-1
+2023,Marge Schott is Trevor Bauer's Safe Word,RBI,649,1,0
+2023,Wandas Big Whoppers,SLTB,3135,12,0
+2023,Talking Heads,SLTB,3118,11,0
+2023,J & B 's Field of Dreams,SLTB,3064,10,1
+2023,Marge Schott is Trevor Bauer's Safe Word,SLTB,3034,9,-1
+2023,The Replacements,SLTB,2996,8,0
+2023,Hamsters on Parade,SLTB,2907,7,1
+2023,The Unnaturals,SLTB,2889,6,-1
+2023,Calvinballers,SLTB,2851,5,0
+2023,Picture of a Goose,SLTB,2831,4,0
+2023,Stolies Southpaws,SLTB,2796,3,0
+2023,Tampico Stogie's,SLTB,2648,2,0
+2023,Roundtrippers ,SLTB,2580,1,0
+2023,Wandas Big Whoppers,ERA,3.452,12,0
+2023,Roundtrippers ,ERA,3.554,11,0
+2023,Stolies Southpaws,ERA,3.564,10,0
+2023,Marge Schott is Trevor Bauer's Safe Word,ERA,3.645,9,0
+2023,Calvinballers,ERA,3.751,8,0
+2023,Tampico Stogie's,ERA,3.759,7,0
+2023,Talking Heads,ERA,3.812,6,2
+2023,The Unnaturals,ERA,3.857,5,0
+2023,J & B 's Field of Dreams,ERA,3.963,4,1
+2023,The Replacements,ERA,3.971,3,-3
+2023,Picture of a Goose,ERA,4.112,2,0
+2023,Hamsters on Parade,ERA,4.309,1,0
+2023,Roundtrippers ,K,1219,12,0
+2023,Wandas Big Whoppers,K,1209,11,0
+2023,J & B 's Field of Dreams,K,1161,10,0
+2023,Talking Heads,K,1116,9,0
+2023,Stolies Southpaws,K,1108,8,0
+2023,Calvinballers,K,1078,7,0
+2023,The Unnaturals,K,1061,6,1
+2023,Marge Schott is Trevor Bauer's Safe Word,K,1047,5,-1
+2023,The Replacements,K,1035,4,0
+2023,Tampico Stogie's,K,1006,3,0
+2023,Hamsters on Parade,K,905,2,0
+2023,Picture of a Goose,K,885,1,0
+2023,Wandas Big Whoppers,S,75,12,0
+2023,The Replacements,S,72,11,2
+2023,Talking Heads,S,71,10,-1
+2023,Stolies Southpaws,S,68,9,0
+2023,J & B 's Field of Dreams,S,66,8,-1
+2023,Calvinballers,S,65,7,0
+2023,The Unnaturals,S,61,6,0.5
+2023,Tampico Stogie's,S,59,5,-0.5
+2023,Marge Schott is Trevor Bauer's Safe Word,S,51,4,0
+2023,Picture of a Goose,S,44,3,0.5
+2023,Hamsters on Parade,S,42,2,-0.5
+2023,Roundtrippers ,S,29,1,0
+2023,Stolies Southpaws,W-L,30,12,0
+2023,Wandas Big Whoppers,W-L,28,11,0
+2023,Marge Schott is Trevor Bauer's Safe Word,W-L,23,10,0
+2023,Picture of a Goose,W-L,19,9,1
+2023,J & B 's Field of Dreams,W-L,18,8,1
+2023,Hamsters on Parade,W-L,15,7,-2
+2023,The Unnaturals,W-L,13,6,0
+2023,Calvinballers,W-L,12,4.5,0.5
+2023,Roundtrippers ,W-L,12,4.5,-0.5
+2023,Talking Heads,W-L,11,3,0
+2023,Tampico Stogie's,W-L,1,2,0
+2023,The Replacements,W-L,-6,1,0
+2023,Wandas Big Whoppers,WHIP,1.1481,12,0
+2023,Marge Schott is Trevor Bauer's Safe Word,WHIP,1.1528,11,0
+2023,Stolies Southpaws,WHIP,1.1548,10,0
+2023,Tampico Stogie's,WHIP,1.1794,9,0
+2023,Calvinballers,WHIP,1.1933,8,1
+2023,Roundtrippers ,WHIP,1.1956,7,-1
+2023,Talking Heads,WHIP,1.2053,6,0
+2023,J & B 's Field of Dreams,WHIP,1.2395,5,0
+2023,Hamsters on Parade,WHIP,1.2468,4,0
+2023,The Unnaturals,WHIP,1.2552,3,1
+2023,Picture of a Goose,WHIP,1.2612,2,1
+2023,The Replacements,WHIP,1.2649,1,-2
